@@ -13,7 +13,7 @@
 
 ## Progetto
 
-Il nostro progetto è volto alla sensibilizzazione degli utenti verso il problema delle polveri sottili e dell'inquinamento nell'aria, che purtoppo ci coinvolge quotidinamente. Abbiamo sviluppato una web app completa, che, grazie ad **Arpav** [(scopri Arpav)](https://www.arpa.veneto.it/) è dotata di accesso ad un database contenente **centinaia di rilevazioni reali quotidiane** del 2019 e 2020, provenienti da **5 stazioni diverse sparse per il Veneto**.
+Il progetto è volto alla sensibilizzazione degli utenti verso il problema delle polveri sottili e dell'inquinamento nell'aria, che purtoppo ci coinvolge quotidinamente. Ho sviluppato una web app completa, che, grazie ad **Arpav** [(scopri Arpav)](https://www.arpa.veneto.it/) è dotata di accesso ad un database contenente **centinaia di rilevazioni reali quotidiane** del 2019 e 2020, provenienti da **5 stazioni diverse sparse per il Veneto**.
 
 ---
 
