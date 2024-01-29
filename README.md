@@ -13,7 +13,7 @@
 
 ## Progetto
 
-Il progetto è volto alla sensibilizzazione degli utenti verso il problema delle polveri sottili e dell'inquinamento nell'aria, che purtoppo ci coinvolge quotidinamente. Ho sviluppato una web app completa, che, grazie ad **Arpav** [(scopri Arpav)](https://www.arpa.veneto.it/) è dotata di accesso ad un database contenente **centinaia di rilevazioni reali quotidiane** del 2019 e 2020, provenienti da **5 stazioni diverse sparse per il Veneto**.
+The project aims to raise awareness among users about the issue of fine particulate matter and air pollution, which unfortunately affects us on a daily basis. I have developed a comprehensive web app that, thanks to **Arpav** [(discover Arpav)](https://www.arpa.veneto.it/) provides access to a database containing **hundreds of real daily measurements** from 2019 and 2020, collected from **5 different stations scattered throughout the Veneto region**.
 
 ---
 
