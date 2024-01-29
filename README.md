@@ -69,7 +69,7 @@ with the current directories structure:
 
 ---
 
-## Required
+## Requirements
 
 MySQL (<https://www.mysql.com/it/downloads/>)
 
