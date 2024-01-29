@@ -19,7 +19,7 @@ The project aims to raise awareness among users about the issue of fine particul
 
 ## Operation
 
-You will need to install an Apache web server with MySQL as the DBMS and have a functioning PHP installation. If you meet all the requirements, simply execute the SQL code found in /sql/create.sql to create the necessary tables. Afterward, open the web app, which will automatically populate the database tables with the data located in /data.
+You will need to install an Apache web server with MySQL as the DBMS and have a functioning PHP installation. If you meet all the requirements, simply execute the SQL code found in ```/sql/create.sql``` to create the necessary tables. Afterward, open the web app, which will automatically populate the database tables with the data located in ```/data```.
 
 ---
 
